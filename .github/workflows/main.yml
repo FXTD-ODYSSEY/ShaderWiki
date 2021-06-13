@@ -54,7 +54,7 @@ jobs:
           
       - name: push repo
         run: | 
-          git remote add server git@l0v0.com:/home/git/repos/HoudiniWiki.git 
+          git remote add server git@l0v0.com:/home/git/repos/ShaderWiki.git 
           git reset
           git checkout .
           git clean -fdx
