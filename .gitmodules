@@ -1,0 +1,9 @@
+[submodule "themes/zzo"]
+	path = themes/zzo
+	url = git@github.com:zzossig/hugo-theme-zzo.git
+[submodule "themes/zdoc"]
+	path = themes/zdoc
+	url = https://github.com/zzossig/hugo-theme-zdoc.git
+[submodule "themes\\houdiniwiki"]
+	path = themes\\houdiniwiki
+	url = git@github.com:FXTD-ODYSSEY/HoudiniWiki.git
