@@ -1,0 +1,164 @@
+[toc-label]
+other = "目录"
+
+[tooltip-written]
+other = "发布时间"
+
+[tooltip-modified]
+other = "上次更新时间"
+
+[tooltip-reading-time]
+other = "阅读时间"
+
+[summary-dateformat]
+other = "2006年 01月 02日"
+
+[reading-time]
+other = "分钟"
+
+[single-writtenBy]
+other = "作者"
+
+[edit-this-page]
+other = "编辑"
+
+[BinaryPrefix-kilobyte]
+other = "kb"
+
+[Attachments-title]
+other = "相关附件"
+
+[Nodes-link]
+other = "案例链接"
+
+[Related]
+other = "关联推荐"
+
+[Revealjs-fullscreen]
+other = "全屏"
+
+
+
+
+[search-placeholder]
+other = "搜索"
+
+
+[tags]
+other = "标签"
+
+[tags-video]
+other = "在线视频"
+
+[tags-pan]
+other = "网盘链接"
+
+[tags-level]
+other = "难度"
+
+[tags-producer]
+other = "出品方"
+
+[tags-pipeline]
+other = "流程"
+
+[tags-version]
+other = "houdini 版本"
+
+[tags-nodes]
+other = "houdini 模块"
+
+
+[categories]
+other = "分类"
+
+[series]
+other = "系列"
+
+[archive-dateformat]
+other = "01-02"
+
+[talks-dateformat]
+other = "01月02日"
+
+[single-dateformat]
+other = "2006年01月02日"
+
+[pub-dateformat]
+other = "2006-01-02"
+
+[resume-dateformat]
+other = "2006年01月"
+
+[single-related]
+other = "相关内容"
+
+[counter-site-pv]
+other = "总浏览"
+
+[counter-site-uv]
+other = "总访客"
+
+[counter-page-pv]
+other = "阅读"
+
+[donate-message]
+other = "您的鼓励是我最大的动力"
+
+[share-message]
+other = "分享"
+
+[contact-name]
+other = "姓名"
+
+[contact-email]
+other = "电子邮件"
+
+[contact-tel]
+other = "Tel"
+
+[contact-file]
+other = "File"
+
+[contact-message]
+other = "消息"
+
+[contact-send]
+other = "发送"
+
+[contact-browse]
+other = "Browse"
+
+[tooltip-home]
+other = "主页"
+
+
+[showcase-overview]
+other = "总览"
+
+[showcase-pinned]
+other = "固定"
+
+[nojs-message]
+other = "Please enable Javascript to view the contents"
+
+[posts-by-order]
+other = "TOP POSTS"
+
+[skin-dark]
+other = "dark"
+
+[skin-light]
+other = "light"
+
+[skin-hacker]
+other = "hacker"
+
+[skin-solarized]
+other = "solarized"
+
+[skin-kimbie]
+other = "kimbie"
+
+[no-contents]
+other = "Nothing to Display"

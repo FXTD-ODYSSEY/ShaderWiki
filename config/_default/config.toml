@@ -1,0 +1,101 @@
+baseURL = "/"
+title = "Shader Wiki"
+# theme = ["zdoc","zzo"]
+theme = ["zdoc"]
+enableInlineShortcodes = true
+# NOTE ignore template folder
+ignoreFiles = ["content/_template/.*"]
+
+relativeURLs = true
+uglyURLs = true
+
+defaultContentLanguage = "zh"
+defaultContentLanguageInSubdir = true
+hasCJKLanguage = true
+
+buildFuture = true
+summaryLength = 70
+
+copyright = "&copy;{year}, All Rights Reserved"
+disableAliases = true
+enableEmoji = true
+paginate = 13
+rssLimit = 100
+timeout = 10000
+
+googleAnalytics = ""
+
+enableEditBtn = true
+
+publishDir = "docs"
+# disableKinds = ["taxonomyTerm"]
+minify = true
+
+[permalinks]
+  1_learning = "/:slug"
+  2_beginner = "/:slug"
+  3_vex = "/:slug"
+  4_python = "/:slug"
+  5_math = "/:slug"
+  6_game = "/:slug"
+  7_procedural = "/:slug"
+  15_fx = "/:slug"
+  16_rendering = "/:slug"
+  19_msic = "/:slug"
+  20_nodes = "/:slug"
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+hardWraps = true
+unsafe = true
+xHTML = true
+[markup.highlight]
+codeFences = true
+lineNos = true
+lineNumbersInTable = true
+noClasses = false
+[markup.tableOfContents]
+endLevel = 4
+ordered = false
+startLevel = 2
+
+[outputs]
+home = ["HTML", "RSS", "SearchIndex"]
+
+[outputFormats]
+[outputFormats.SearchIndex]
+baseName = "index"
+isPlainText = true
+mediaType = "application/json"
+notAlternative = true
+
+[taxonomies]
+category = "categories"
+level = "level"
+producer = "producer"
+tag = "tags"
+tech = "tech"
+
+[related]
+
+includeNewer = true
+threshold = 80
+toLower = false
+
+# [[related.indices]]
+# name = "date"
+# pattern = "2006"
+# weight = 10
+[[related.indices]]
+name = "pipeline"
+weight = 30
+[[related.indices]]
+name = "nodes"
+weight = 40
+[[related.indices]]
+name = "level"
+weight = 5
+[[related.indices]]
+name = "version"
+weight = 5

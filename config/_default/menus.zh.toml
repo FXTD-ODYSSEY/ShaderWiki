@@ -1,0 +1,66 @@
+
+[[main]]
+  identifier = "learning"
+  name = "学习路线"
+  url = "learning"
+  weight = 1
+
+  [[main]]
+    parent = "learning"
+    identifier = "beginner"
+    name = "入门"
+    url = "beginner"
+    weight = 2
+
+[[main]]
+  identifier = "categories"
+  name = "分类"
+  url = "archive/"
+  weight = 15
+
+  [[main]]
+    parent = "categories"
+    identifier = "cat_producer"
+    name = "出品方"
+    url = "producer/"
+    weight = 1
+
+  [[main]]
+    parent = "categories"
+    identifier = "cat_level"
+    name = "难度"
+    url = "level/"
+    weight = 2
+
+  [[main]]
+    parent = "categories"
+    identifier = "cat_pipeline"
+    name = "流程"
+    url = "pipeline/"
+    weight = 3
+
+[[main]]
+  identifier = "blog"
+  name = "博客"
+  url = "blog"
+  weight = 20
+
+[[main]]
+  identifier = "updates"
+  name = "关于"
+  url = "updates/about"
+  weight = 25
+  
+  [[main]]
+    parent = "updates"
+    identifier = "log"
+    name = "更新日志"
+    url = "updates/log"
+    weight = 1
+  
+  [[main]]
+    parent = "updates"
+    identifier = "todo"
+    name = "待办列表"
+    url = "updates/todo"
+    weight = 2

@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "9d6a356d33b8614c",
+    "type": "split",
+    "children": [
+      {
+        "id": "228cc09e620f64d8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "zh/2_beginner/1_opengl/1_OpenGL Graphics Programming.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "35363f4436876c34",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "zh/2_beginner/1_opengl/1_OpenGL Graphics Programming.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b2f10457b4c70f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7959fc4e2c5f5fc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f497b6f2a409321d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ede48c6127f1b61",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"description\": ,",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "feb2c56afb12a0c8",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "59720ad17080143a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298
+  },
+  "right": {
+    "id": "a80862e05dfd61be",
+    "type": "split",
+    "children": [
+      {
+        "id": "76926b6b23a2422b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "454dace896302256",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "zh/2_beginner/1_opengl/1_OpenGL Graphics Programming.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "79fd783b064a9f3c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "zh/2_beginner/1_opengl/1_OpenGL Graphics Programming.md"
+              }
+            }
+          },
+          {
+            "id": "f65a6f7f821c6fbe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7a8717d70ad5befa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "zh/2_beginner/1_opengl/1_OpenGL Graphics Programming.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "228cc09e620f64d8",
+  "lastOpenFiles": [
+    "zh/2_beginner/1_opengl/1_OpenGL Graphics Programming.md",
+    "Untitled.md",
+    "test.md",
+    "Untitled 1.md",
+    "_template/lesson.md",
+    "_template/ppt.md",
+    "_template/glossary.md",
+    "zh/2_beginner/_index.md",
+    "zh/1_learning/basic.md",
+    "zh/2_beginner/1_opengl/_index.md"
+  ]
+}
