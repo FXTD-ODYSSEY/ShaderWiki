@@ -16,7 +16,7 @@ jobs:
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
       
       - name: copy `content/assets` into `static/assets`
-        run: python ${{ github.workspace }}/scripts/copy_assets.py
+        run: python ${{ github.workspace }}/scripts/copy_files.py
       
       - name: collect links.json
         run: python ${{ github.workspace }}/scripts/collect_link_data.py
